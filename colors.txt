@@ -1,7 +1,9 @@
+PPTX
 Green          #1E3805
 Blue           #070749
 Red            #A41034
 
+GEOJSON
 Travel         #d7191c
 Projects       #1a9641
 Work           #0571b0
