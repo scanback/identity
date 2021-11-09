@@ -13,4 +13,4 @@ LI STRATEGY ARTICLE
 Blue	#0d0953
 Green	#01675f
 Brown	#8d510b
-Red #a10949
+Red   #a10949
