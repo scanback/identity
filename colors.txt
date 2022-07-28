@@ -1,9 +1,10 @@
 PPTX
-Green          #1E3805
-Blue           #070749
-Red            #A41034
-Lighter green  #E9EBE6
-Lighter blue   #E6E6ED
+Blue           #00124D
+Borange        #C57B57
+Green          #78C091
+Red            #A53860
+Lighter blue   #246EB9
+Yellow         #F1ECCE
 
 GEOJSON
 Travel         #d7191c
